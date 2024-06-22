@@ -17,6 +17,6 @@ console.log(arr3)
 let myarr1 = arr2.slice(0,2)
 console.log(arr2)
 console.log(myarr1)
-let myarr2 = arr2.splice(0,2)
+let myarr2 = arr2.splice(0,2)  //splice manipulates the original array
 console.log(arr2)
 console.log(myarr2)
